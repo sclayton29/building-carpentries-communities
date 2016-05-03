@@ -6,7 +6,7 @@
 4. Oklahoma Water Survey
 5. Biocorosion center
 5. [Aeroecology](http://animalmigration.org/aeroecology/index.htm)
-6. [Animal Migration - [TAGS](http://tags.animalmigration.org), [ETAG](http://animalmigration.org/RFID/index.htm)
+6. Animal Migration - [TAGS](http://tags.animalmigration.org), [ETAG](http://animalmigration.org/RFID/index.htm)
 
 
 
